@@ -1,6 +1,6 @@
 - 👋 Hi, I’m @AlfredKSwaray
 - 👀 I’m interested in Anything that has to do with Technology
-- 🌱 I’m currently learning Computer Science
+- 🌱 I’m a First-class Honours Computer Science Graduate
 - 💞️ I’m looking to collaborate on Software Engineering, Machine Learning, Web Development and AI
 - 📫 How to reach me...Email: alfredkswaray@gmail.com/a.swaray@alumni.alueducation.com
 
